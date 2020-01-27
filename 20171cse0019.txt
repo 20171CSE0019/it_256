@@ -1,1 +1,2 @@
 hello there!
+This is the 2nd lab of IT. Today is monday. Date is 27-01-2020
