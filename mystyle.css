@@ -48,23 +48,30 @@ p.hi{
   border-left-style:solid;
 }
 
+p.we{margin: 150px 20px 25px 20px;}
 
 
+div{width:300px; margin:auto; border: 100px solid red; padding: 20px 30px 40px 50px}
+
+div.new{width:300px; border:25px solid green; padding:25px; margin:25px}
+
+li.w{
+  display: inline;
+}
+
+span.a{display:inline;width:100px;height:100px;padding:5px;border:1px solid blue;background-color:yellow;}
+span.b{display:inline-block;width:100px;height:100px;padding:5px;border:1px solid blue;background-color:yellow;}
+span.c{display:block;width:100px;height:100px;padding:5px;border:1px solid blue;background-color:yellow;}
 
 
+a:link.A {
+  
+}
 
 
-
-
-
-
-
-
-
-
-
-
-
+a:link.b {color:green;
+  
+}
 
 
 
