@@ -64,19 +64,27 @@ span.b{display:inline-block;width:100px;height:100px;padding:5px;border:1px soli
 span.c{display:block;width:100px;height:100px;padding:5px;border:1px solid blue;background-color:yellow;}
 
 
-a:link.A {
+a:link.aa{color:red;
   
 }
 
 
-a:link.b {color:green;
+a:visited.bb{color:green;
   
+}
+
+a:hover.cc{color:hotpink;
+
+}
+
+a:active.dd{color:blue;
+
 }
 
 
 
-
-
+h1.z{color:#006400;font-size:50px;text-align:left}
+p.z{font-size:25px;text-align:left;margin-top:-40px}
 
 
 

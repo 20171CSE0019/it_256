@@ -1,0 +1,24 @@
+
+nav{background-color:grey;
+  border:10px solid black;
+  padding:25px;
+  margin:auto;
+}
+
+a:link.d{ 
+  color:white;
+  padding:150px;
+  text-decoration:none;
+}
+
+
+
+div.i{
+  background-image:url("/home/6CSE1/Downloads/testimage.jpeg";);
+}
+
+div.t{
+  border:1px solid red;opacity:0.4;filter:opacity=40;color:black;
+}
+
+#grad{background-image:linear-gradient(-90deg, red,yellow);}
