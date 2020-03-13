@@ -1,0 +1,67 @@
+
+body{width:auto;height:auto;}
+nav{background-color:grey;
+  border:10px solid black;
+  padding:25px;
+  margin:auto;
+}
+
+a:link.d{ 
+  color:white;
+  padding:150px;
+  text-decoration:none;
+}
+
+
+
+div.i{
+  background-image:url("/home/6CSE1/Downloads/testimage.jpeg";);
+}
+
+div.t{
+  border:1px solid red;opacity:0.4;filter:opacity=40;color:black;
+}
+
+#grad{background-image:linear-gradient(-90deg, red,yellow);}
+
+
+h1::before{content:url("/home/6CSE1/Downloads/testimage.jpeg");}
+
+h2::after{content:url("/home/6CSE1/Downloads/testimage.jpeg");}
+
+::selection{color:black;background:0white;}
+
+#grad1{background-image:repeating-linear-gradient(red,yellow 10%, green 20%);}
+
+#grad2{background-image:linear-gradient(to right, red,orange,yellow,green,blue,indigo,violet);}
+
+#grad3{background-image:linear-gradient(to right, rgba(255,0,0,0),rgba(255,0,0,1));}
+
+#grad4{background-image:radial-gradient(red,yellow,green);}
+
+#grad5{background-image:radial-gradient(circle, red,yellow,green);}
+
+
+
+
+div.gallery {
+  border: 1px solid #ccc;
+}
+
+div.gallery:hover {
+  border: 1px solid #777;
+}
+
+
+div.gallery img {
+
+  height: auto;
+}
+
+div.desc {
+  padding: 15px;
+  text-align: center;
+}
+
+
+
